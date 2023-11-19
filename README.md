@@ -1,20 +1,19 @@
 # cs5890-ADL-project
 
-## Code Execution Instructions
+## Usage
 
-#### To run the multivariate.ipynb notebook:
+To run the multivariate.ipynb notebook:
 
-> Clear All Output 
-> Run All
+> `Clear All Output` > `Run All`
 
-#### To run the conv.ipynb notebook:
+To run the conv.ipynb notebook:
 
-> Clear All Output 
-> Run All
+> `Clear All Output` > `Run All`
 
 ## Dependencies
 
-I'm not 100% sure what to put here to allow anyone to run this on any machine, but here is some information that `conda list` spits out about the important packages I used:
+
+If you have problems running my code, try upgrading/downgrading your packages to align with what you see below:
 
 | Name         | Version | Build                   | Channel |
 | ------------ | ------- | ----------------------- | ------- |
@@ -28,5 +27,3 @@ I'm not 100% sure what to put here to allow anyone to run this on any machine, b
 | matplotlib   | 3.7.1   | py39haa95532_0          |         |
 | pandas       | 1.5.3   | py39hf11a4ad_0          |         |
 | cuda         | 11.7.1  | nvidia                  |         |
-
-If you have problems running my code, try upgrading/downgrading your packages to align with what you see above
